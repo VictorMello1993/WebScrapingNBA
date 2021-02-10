@@ -1,0 +1,24 @@
+1612917679093	geckodriver	INFO	Listening on 127.0.0.1:61507
+1612917682183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\santo\\AppData\\Local\\Temp\\rust_mozprofileMTHEHm"
+*** You are running in headless mode.
+1612917698778	geckodriver	INFO	Listening on 127.0.0.1:61554
+1612917701768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\santo\\AppData\\Local\\Temp\\rust_mozprofileefa5md"
+*** You are running in headless mode.
+1612917745728	geckodriver	INFO	Listening on 127.0.0.1:61615
+1612917748725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\santo\\AppData\\Local\\Temp\\rust_mozprofileON4gSM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612917750640	Marionette	INFO	Listening on port 61629
+1612917750785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nu_AAKsw1zAfQIMeJTvAfLDPgnmqV_SQukv4iNqzUQg.js line 1 > eval line 2085 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nu_AAKsw1zAfQIMeJTvAfLDPgnmqV_SQukv4iNqzUQg.js line 1 > eval line 2085 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YrTt2nCnHeKxmHilKBZXmnSHLNBYl9Kx70apKwZmX28.js line 1 > eval line 5049 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YrTt2nCnHeKxmHilKBZXmnSHLNBYl9Kx70apKwZmX28.js line 1 > eval line 5049 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+?" (new Error("", "(unknown module)"))
+1612917804718	Marionette	INFO	Listening on port 61820
+1612917804856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612917808646	Marionette	INFO	Stopped listening on port 61820
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\santo\AppData\Local\Temp\rust_mozprofileKbtm8C\protections.sqlite
